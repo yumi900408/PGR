@@ -1,6 +1,6 @@
 # PGR 往期大版本活動整理
 
-![Alt text](https://cdnimg01.kurogame.com/M00/14/F0/ChpCl14HFoWEXVloAAAAAI1r4zY635.jpg)
+<img src="https://cdnimg01.kurogame.com/M00/14/F0/ChpCl14HFoWEXVloAAAAAI1r4zY635.jpg" width="50%" height="50%" />
 
 ## 極地暗流 Frozen Darkness
 
@@ -24,12 +24,30 @@
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="https://cdnimg02.kurogame.com/M00/15/40/ChpCl1435teERy67AAAAAJzZNCM398.jpg" width="50%" height="50%" />
 
-### Jekyll Themes
+## 黑星墜落 Fallen Star (第九章)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yumi900408/PGR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+活動期間 2020年2月6日~2020年3月12日
 
-### Support or Contact
+```markdown
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+開啟主線第九章
+
+新增構造體：
+Ａ級 渡邊·夙星
+Ａ級 艾拉·溢彩
+
+新增塗裝：
+渡邊·夙星【天際試行】/【荒野集訓】
+艾拉·溢彩【紫菀躍兔】/【冒險精神】
+神威·暗能【闇影尖兵】
+
+新增：
+6★專屬武器【鎮命者】（夙星專屬）
+6★專屬武器【魏紫】（溢彩專屬）
+6★意識套裝【芭斯隆】
+得飲茶系列家具
+構造體 露西亞·深红之淵 和 神威·重能 加入基準角色研發池
+
+```
