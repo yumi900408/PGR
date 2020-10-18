@@ -1,8 +1,6 @@
 ## Welcome to Punishing Gray Raven
 
-You can use the [editor on GitHub](https://github.com/yumi900408/PGR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://l.taptap.com/1sSQg2Bj" target="_blank" class="stat_event_down stat_event_tap"><img src="https://cdn.discordapp.com/attachments/703617906335940649/766987784555593738/FB-1.jpg" alt="" /></a>
 
 ### Markdown
 
