@@ -7,21 +7,21 @@
 活動期間 2019年12月24日~2020年1月25日
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+新增構造體：
+Ｓ級 露西亞·深紅之淵
+Ａ級 神威·重能
 
-- Bulleted
-- List
+新增塗裝：
+露西亞·深紅之淵【終末之旅】/【灰羽·深紅之淵】
+神威·重能【終焉訊使】/【灰羽·重能】
+//小註解：以前的終焉訊使叫疫區信使
 
-1. Numbered
-2. List
+新增：
+6★專屬武器【紅櫻】（深紅之淵專屬）
+6★專屬武器【大神威】（重能專屬）
+6★意識套裝【巴頓】
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
