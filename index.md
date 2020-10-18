@@ -1,6 +1,6 @@
 # PGR 往期大版本活動整理
 
-<img src="https://cdnimg01.kurogame.com/M00/14/F0/ChpCl14HFoWEXVloAAAAAI1r4zY635.jpg" width="70%" height="70%" />
+<img src="https://i.imgur.com/Yil5qSn.jpg" width="70%" height="70%" />
 
 ## 極地暗流 Frozen Darkness
 
@@ -24,7 +24,7 @@
 
 ```
 
-<img src="https://cdnimg02.kurogame.com/M00/15/40/ChpCl1435teERy67AAAAAJzZNCM398.jpg" width="70%" height="70%" />
+<img src="https://i.imgur.com/krftMZe.jpg" width="70%" height="70%" />
 
 ## 黑星墜落 Fallen Star (第九章)
 
